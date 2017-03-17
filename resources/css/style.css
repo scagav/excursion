@@ -1,0 +1,37 @@
+html{
+  text-align: center;
+  background-color: black;
+  font-family: veranda;
+}
+video{
+  height: 400px;
+  width:2;0px:
+}
+h2,h1{
+  color: white;
+
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.link{
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.signature{
+  text-align: right;
+  color: grey;
+}
+
+p{
+  color: grey;
+  font-size: 21px;
+}
